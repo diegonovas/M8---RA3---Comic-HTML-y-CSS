@@ -3,7 +3,9 @@ body {
     color: #ffffff;
     text-align: center;
     background-color: #000000;
+    border: 5px solid white;
     padding: 20px;
+    margin: 20px;
 }
 
 .container{
